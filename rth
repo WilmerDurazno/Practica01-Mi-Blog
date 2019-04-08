@@ -1,0 +1,29 @@
+[33mcommit ce2ed510de242c035c88e07686370b9018203900[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: WilmerDurazno <oscardurasno12@gmail.com>
+Date:   Sun Apr 7 20:12:17 2019 -0500
+
+    se creo <section> y <article> por lo cual se coloco informacion sobre HTML5
+
+[33mcommit 85afffc3dd81b5443a1076f71cf3f9bcfc09df56[m
+Author: WilmerDurazno <oscardurasno12@gmail.com>
+Date:   Sun Apr 7 20:10:25 2019 -0500
+
+    se han insertado las imagen1,2,3,4
+
+[33mcommit b64c97555b22e256284f1ae068fac43a454dcb12[m
+Author: WilmerDurazno <oscardurasno12@gmail.com>
+Date:   Sun Apr 7 18:53:37 2019 -0500
+
+    se utilizo el <nav> para de limitar el menu de las paginas creadas
+
+[33mcommit 8b86e263b20b83681c3b6502739f0254d4b69d9b[m
+Author: WilmerDurazno <oscardurasno12@gmail.com>
+Date:   Sun Apr 7 18:50:53 2019 -0500
+
+    se creo un archivo con el nombre de pagina1
+
+[33mcommit ebd753d17398767d7dbc6780c0ccb477d8989ca1[m
+Author: WilmerDurazno <oscardurasno12@gmail.com>
+Date:   Sun Apr 7 16:09:43 2019 -0500
+
+    se coloco el titulo en header :)
